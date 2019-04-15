@@ -34,7 +34,7 @@ function configure(api) {
   api.use([
     'mongo',
     'underscore',
-    'meteorhacks:meteorx@1.3.1',
+    'lamhieu:meteorx@2.0.1',
     'meteorhacks:picker@1.0.2',
     'chuangbo:cookie@1.1.0'
   ]);
