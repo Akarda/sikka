@@ -1,3 +1,5 @@
+# forked version for Meteor Version >1.8.1
+
 # Sikka - A Firewall for Meteor Apps [![Build Status](https://travis-ci.org/meteorhacks/sikka.svg?branch=master)](https://travis-ci.org/meteorhacks/sikka)
 
 This is an application level firewall for Meteor. Sikka can detect malicious users of your app and block those users. 
