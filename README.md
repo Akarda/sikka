@@ -1,4 +1,4 @@
-# forked version for Meteor Version >1.8.1
+# forked version for Meteor Version <1.8.1
 
 # Sikka - A Firewall for Meteor Apps [![Build Status](https://travis-ci.org/meteorhacks/sikka.svg?branch=master)](https://travis-ci.org/meteorhacks/sikka)
 
